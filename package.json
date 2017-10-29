@@ -1,0 +1,16 @@
+{
+  "name": "run",
+  "version": "1.0.0",
+  "description": "",
+  "author": "romaklimenko@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "@mapbox/togeojson": "^0.16.0",
+    "@types/mapbox-gl": "^0.40.0",
+    "lite-server": "^2.3.0"
+  },
+  "dependencies": {},
+  "scripts": {
+    "dev": "lite-server"
+  }
+}
